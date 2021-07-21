@@ -1,0 +1,1 @@
+# sonoff_mini_r2
